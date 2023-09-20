@@ -1,2 +1,2 @@
 # CQRS-Example
-<p>Small example for cqrs pattern</p>
+<p>Example project  for cqrs pattern</p>
